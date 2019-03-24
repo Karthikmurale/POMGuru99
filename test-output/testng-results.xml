@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14362" started-at="2019-03-20T16:23:58Z" finished-at="2019-03-20T16:24:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14362" started-at="2019-03-20T16:23:58Z" finished-at="2019-03-20T16:24:13Z">
+      <class name="Com.Guru99.Test.TC1_LoginTest">
+        <test-method status="PASS" signature="initBrowser()[pri:0, instance:Com.Guru99.Test.TC1_LoginTest@4883b407]" name="initBrowser" is-config="true" duration-ms="8636" started-at="2019-03-20T21:53:58Z" finished-at="2019-03-20T21:54:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:Com.Guru99.Test.TC1_LoginTest@4883b407]" name="setup" is-config="true" duration-ms="152" started-at="2019-03-20T21:54:07Z" finished-at="2019-03-20T21:54:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginCheck()[pri:0, instance:Com.Guru99.Test.TC1_LoginTest@4883b407]" name="loginCheck" duration-ms="4232" started-at="2019-03-20T21:54:07Z" finished-at="2019-03-20T21:54:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginCheck -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Com.Guru99.Test.TC1_LoginTest@4883b407]" name="tearDown" is-config="true" duration-ms="558" started-at="2019-03-20T21:54:11Z" finished-at="2019-03-20T21:54:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="wrapit()[pri:0, instance:Com.Guru99.Test.TC1_LoginTest@4883b407]" name="wrapit" is-config="true" duration-ms="772" started-at="2019-03-20T21:54:12Z" finished-at="2019-03-20T21:54:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapit -->
+      </class> <!-- Com.Guru99.Test.TC1_LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
